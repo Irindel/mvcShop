@@ -1,0 +1,5 @@
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Model\bin\Debug\MvcShop.Model.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Model\bin\Debug\MvcShop.Model.pdb
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Model\obj\Debug\MvcShop.Model.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Model\obj\Debug\MvcShop.Model.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\MvcShop\MvcShop.Model\obj\Debug\MvcShop.Model.csprojResolveAssemblyReference.cache

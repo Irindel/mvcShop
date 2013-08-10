@@ -1,0 +1,20 @@
+﻿@model MvcShop.mod.OfferViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Offers</h2>
+
+
+@foreach (var offer in Model.OfferList)
+{ 
+    
+ <div class="row">
+     <img src="@offer.UrlPicture" class="img-thumbnail">
+ </div>
+
+
+
+}

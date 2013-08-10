@@ -1,0 +1,10 @@
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\MvcShop.Repositories.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\MvcShop.Repositories.pdb
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\Dapper.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\MvcShop.Model.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\MvcShop.Model.pdb
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\Dapper.pdb
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\bin\Debug\Dapper.xml
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\obj\Debug\MvcShop.Repositories.csprojResolveAssemblyReference.cache
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\obj\Debug\MvcShop.Repositories.dll
+c:\Users\Piotrek\documents\visual studio 2013\Projects\MvcShop\MvcShop.Repositories\obj\Debug\MvcShop.Repositories.pdb
